@@ -97,6 +97,7 @@ To utilize the Medicinal Plant Identification And Retrieval-Augmented Generation
    
    - Navigate to `localhost:8000/api/predict/` in your web browser.
    - Upload an image of the medicinal plant for identification.
+![Medicinal Plant Identification And Retrieval-Augmented Generation (RAG) Chatbot](API.png)
 
 8. Access Retrieval-Augmented Generation (RAG) functionality:
    
